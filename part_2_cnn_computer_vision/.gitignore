@@ -1,0 +1,9 @@
+# Ignore the dataset and metadata
+images/
+labels.csv
+data_dictionary.md
+
+# Ignore system/hidden files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
