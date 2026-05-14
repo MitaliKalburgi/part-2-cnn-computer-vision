@@ -21,7 +21,6 @@ The dataset used in this project is sourced from the shared Google Drive folder:
 - `results/` — output files from model training
   - `accuracy_loss_curves.png` — training and validation accuracy/loss graphs
   - `confusion_matrix.png` — model evaluation confusion matrix
-  - `cnn_model.keras` — saved trained model
 - `sample_predictions/` — visual output of model predictions
   - `prediction_outputs.png` — sample test images with predicted labels
 - `requirements.txt` — required Python libraries
@@ -75,4 +74,4 @@ Trained for 20 epochs with Adam optimizer. Achieved 96.88% test accuracy. Output
 ## 📝 Notes
 
 - Dataset files and model outputs are not included in this repository
-- The model achieves 96.88% test accuracy across four defect classes
+- The model achieves 91.67% test accuracy across four defect classes
